@@ -50,7 +50,7 @@ async def sofahc(ctx,  keko1, keko2):
     trozoSOFAHC = Image.open(r"imagenes/TrozoHCSofa.png").convert("RGBA")
     img1 = trozoSOFAHC.resize((200,135), Image.ANTIALIAS)#tamaño del trozo de sofa
     
-    img1 = Image.open(r"imagenes/HCSofa.png").convert("RGBA") #Imagen del candado de amor sant valentin
+    img1 = Image.open(r"imagenes/HCSofa.png").convert("RGBA") #Imagen del sofa habbo club
     img1 = img1.resize((200,135), Image.ANTIALIAS)
 
 
