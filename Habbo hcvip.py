@@ -84,7 +84,7 @@ async def sofahc(ctx,  keko1, keko2):
 
         await ctx.send(file=discord.File(fp=image_binary, filename='keko.png'))
 
-        ##TERMINA EL CÓDIGO DEL CANDADO DE HABBO AMOR
+        ##TERMINA EL CÓDIGO DEL sofa vip
 
 
 
